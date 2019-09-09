@@ -1,4 +1,4 @@
-# HackerCode
+# Hacker Code
 An interview take-home code challenge.
 
 ## Challenge Instructions
