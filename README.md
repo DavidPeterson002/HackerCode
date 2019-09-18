@@ -11,4 +11,4 @@ Use https://github.com/HackerNews/API to generate a web-based solution using C# 
 If you have time, try some of the bonuses:
 - [x] Add a search function.
 - [x] Build caching. 
-- [ ] Put it on Azure and send us a link to it working.
+- [x] Put it on Azure and send us a link to it working. ***(Link upon request)***
